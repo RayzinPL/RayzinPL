@@ -68,6 +68,22 @@ Uma aplicação desenvolvida em C para gerenciamento e simulação de investimen
 
 🔗 [Acessar repositório](https://github.com/RayzinPL/Carteira-de-Investimentos-em-C)
 
+### 🧠 Quiz em C
+
+**`C` · Projeto acadêmico**
+
+Um jogo de perguntas e respostas desenvolvido em C, com cadastro de perguntas, partidas e ranking de jogadores. O projeto utiliza arquivos para persistir as perguntas e os resultados das partidas.
+
+**✨ Funcionalidades:**
+
+- 🎮 Jogo de perguntas com alternativas de A a D.
+- 📝 Cadastro de novas perguntas.
+- 💾 Persistência de perguntas e resultados em arquivos.
+- 🏆 Ranking de jogadores ordenado por percentual de acertos.
+- 🔢 Ordenação do ranking utilizando Bubble Sort.
+
+🔗 [Acessar repositório](https://github.com/RayzinPL/Quiz-em-C)
+
 ### 🌐 Portfólio pessoal
 
 **`HTML` · `CSS` · `JavaScript`**
