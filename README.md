@@ -23,7 +23,7 @@
 
 Sou Daniel, tenho 19 anos e sou de Suzano, SP.
 
-🎓 Atualmente curso **Desenvolvimento de Software no Centro Universitário Braz Cubas**, construindo minha base em programação e explorando diferentes áreas da computação.
+🎓 Atualmente curso **Ciencias Da Computação no Centro Universitário Braz Cubas**, construindo minha base em programação e explorando diferentes áreas da computação.
 
 🎯 Meu objetivo é evoluir como desenvolvedor **Full Stack**, entendendo tanto o funcionamento por trás das aplicações quanto a experiência de quem utiliza o produto.
 
