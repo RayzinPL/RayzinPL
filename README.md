@@ -14,6 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-8B5CF6?style=for-the-badge)](https://rayzinpl.github.io/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayzinPL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielgoncalves-ti/)
 
 </div>
 
